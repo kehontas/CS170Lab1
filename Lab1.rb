@@ -3,6 +3,8 @@
 
 my_num = 1
 
+#This is my change
+
 
 # 2. Get input from the console and save it to a variable. Prompt the user to enter a string such as their name or school. 
 #  	Print to the console the string in caps and reversed, then print out the length of the string. 
